@@ -1,0 +1,18 @@
+{
+    "name": "vendor/tracks-spotify-php",
+    "description": "Description of project tracks_spotify_php.",
+    "authors": [
+        {
+            "name": "amacdong",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "mashape/unirest-php": "3.*"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "disable-tls": true,
+        "secure-http": false
+    }   
+}
